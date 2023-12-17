@@ -1,0 +1,4 @@
+repository "Seminar@rania_omanovic@cloud"
+  path "/"
+    br "/main"
+    co "/main"
